@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		"en"		"[KTimer]"	
+	}
+	"Client Connected"
+	{
+		"#format"	"{1:s},{2:N}, {3:i}"
+		"en"		"{1}{2} Just connected with {3} Points."
+	}
+}
